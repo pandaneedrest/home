@@ -1,7 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2025 苏哲 (https://codepen.io/aekytagj-the-encoder/pen/KwKBWyw)
-Fork of an original work Star Trek (https://codepen.io/atzedent/pen/NPKeGYJ)
+Copyright (c) 2025 Tommy Ho (https://codepen.io/tommyho/pen/pvojKWP)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
